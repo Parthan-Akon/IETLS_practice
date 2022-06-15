@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "ieltsprac-8c0b4"
+  },
+  "targets": {
+    "ieltsprac-8c0b4": {
+      "hosting": {
+        "prod": [
+          "ieltspracticeakon"
+        ]
+      }
+    }
+  }
+}
