@@ -129,6 +129,8 @@ export default function Reading() {
                    currentSection === 'Answers' && <ReadingAnswers />
                 }
 
+                
+
 
                 <div className="footer-reading">
                     <div className="white section" id="reading-section1" onClick={addActiveClass1}>Section 1</div>
